@@ -18,5 +18,5 @@ ThreadPoolExecutor(int 该线程池中核心线程数最大值,
                          BlockingQueue<Runnable> 阻塞队列，维护着等待执行的Runnable任务象,
                    ----下面为可选参数----
                           ThreadFactory threadFactory,
-                          RejectedExecutionHandler拒绝处理策略，线程数量大于最大线程数就会采用拒绝处理策略)
+                          RejectedExecutionHandler拒绝处理策略，线程数量大于最大线程数就会采用拒绝处理策略
 ```
