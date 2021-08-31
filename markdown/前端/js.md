@@ -5,3 +5,4 @@
 ​	方法的`__proto__` 是` Function.prototype`
 
 ​	后面的Class语法其实就是新建了个constructor，然后把类的属性方法赋值给constructor的`prototype` 对象。
+
